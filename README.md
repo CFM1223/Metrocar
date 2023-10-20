@@ -1,1 +1,4 @@
-# Metrocar
+# Metrocar Funnel Analysis Project
+The project involved a comprehensive analysis of Metrocar, a ride-sharing platform, focusing on understanding user behavior and sentiment. By employing advanced data analysis techniques, the project delved into various aspects, including user interactions, feedback, and demographic patterns. Through detailed funnel analysis, the team examined the customer journey from app download to review submission, pinpointing key stages that needed attention and improvement.
+
+Additionally, sentiment analysis was conducted on user reviews to gauge customer satisfaction and identify prevalent sentiments, both positive and negative. The project provided actionable insights, enabling Metrocar to optimize its services, enhance user experiences, and make data-driven decisions to strengthen its market position. Overall, the project aimed to improve customer engagement, increase user satisfaction, and drive strategic decision-making within the Metrocar platform.
